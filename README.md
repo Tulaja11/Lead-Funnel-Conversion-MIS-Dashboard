@@ -87,16 +87,6 @@ Lead ID, Date, Month, Year, Lead Source, Product, Salesperson, Status, Deal Valu
 
 ---
 
-## File Structure
-
-```
-Lead-Management-MIS/
-│
-├── Lead_Management_MIS_Dataset.xlsx   # Main workbook with all sheets and dashboard
-├── dashboard.png                       # Screenshot of final dashboard (add this)
-└── README.md                           # This file
-```
-
 ### Sheets inside the workbook:
 - **Main Table** — Raw data (500 rows)
 - **KPI** — KPI calculation pivot
