@@ -1,9 +1,7 @@
 # Lead Management MIS Dashboard
 
 ## Dashboard Preview
-<!-- Take a screenshot of your final dashboard and save it as 'dashboard.png' in this folder -->
-<!-- Then replace the line below with your image -->
-![Lead Management MIS Dashboard](dashboard.png)
+<img width="1563" height="692" alt="image" src="https://github.com/user-attachments/assets/b80d124b-5892-40c1-9b09-99350116627e" />
 
 ---
 
