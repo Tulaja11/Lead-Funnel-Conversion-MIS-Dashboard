@@ -105,8 +105,6 @@ Lead ID, Date, Month, Year, Lead Source, Product, Salesperson, Status, Deal Valu
 2. Open in Microsoft Excel (2016 or later)
 3. Go to the **Dashboard** tab
 4. Use slicers on the right to filter by Region, Salesperson, or Status
-5. All KPIs and charts update automatically
-
 ---
 
 ## Skills Demonstrated
